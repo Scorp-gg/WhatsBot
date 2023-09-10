@@ -2,12 +2,17 @@
 
 Pasos:
 
-- Descomprime el zip WhatsBot
+- Descomprime el zip WhatsBot.
 - Abre https://web.whatsapp.com y vincula tu `WhatsApp` en tu navegador predeterminado. 
-- Abre el archivo `Mensaje.txt` y escribe el texto que quieras mandar 1 Linea = 1 Mensaje `El bot no detecta tildes ni símbolos raros`
+- Abre el archivo `Mensaje.txt` y escribe el texto que quieras mandar 1 Linea = 1 Mensaje `El bot no detecta tildes ni símbolos raros`.
 - Guarda el archivo de texto.
-- Ejecuta el `WhatsBot.exe`
+- Ejecuta el `WhatsBot.exe`.
+- Llena la información requerida.
+- Presiona Enviar Mensajes.
+- Se abrira una ventana de explorador para que selecciones el archivo de `Mensaje.txt`.
+- No muevas nada hasta que aparezca el mensaje de que han sido finalizado.
 
+  Reporte de bugs puedes hacerlo en <a href="mailto:support@scorpmx.com.com?subject=WhatsBot%20Bugs">Support@scorpmx.com</a>
 Al ejecutarlo saltara un bloqueo de Windows debido que no tiene nombre de editor, para arreglarlo sigues estos pasos:
 
 
