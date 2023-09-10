@@ -13,6 +13,8 @@ Pasos:
 - No muevas nada hasta que aparezca el mensaje de que han sido finalizado.
 
   Reporte de bugs puedes hacerlo en <a href="mailto:support@scorpmx.com.com?subject=WhatsBot%20Bugs">Support@scorpmx.com</a>
+
+  
 Al ejecutarlo saltara un bloqueo de Windows debido que no tiene nombre de editor, para arreglarlo sigues estos pasos:
 
 
